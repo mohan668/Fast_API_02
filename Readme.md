@@ -98,7 +98,4 @@ Fast_Api/
 
 ---
 
-```
 
-Let me know if you want it saved to a file or customized for deployment (e.g., Docker or cloud).
-```
