@@ -1,4 +1,13 @@
-Here's the complete `README.md` file content:
+
+ 📖 Overview
+
+ `main.py` creates a FastAPI app.
+ A POST route `/command` accepts a JSON body with an `action` string.
+ Based on the command received, it prints an appropriate message simulating motor behavior.
+ Easily extensible for real hardware integration.
+
+
+
 
 ---
 
@@ -85,15 +94,6 @@ Fast_Api/
 ├── main.py           FastAPI app with command logic
 ├── README.md         Project documentation
 ```
-
----
-
- 📖 Overview
-
- `main.py` creates a FastAPI app.
- A POST route `/command` accepts a JSON body with an `action` string.
- Based on the command received, it prints an appropriate message simulating motor behavior.
- Easily extensible for real hardware integration.
 
 ---
 
