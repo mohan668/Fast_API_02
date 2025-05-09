@@ -2,7 +2,7 @@ Here's the complete `README.md` file content:
 
 ---
 
-````markdown
+
  FastAPI Motor Control API
 
 This project is a simple FastAPI application that provides an HTTP POST endpoint to receive and process motor control commands such as `on`, `off`, `clockwise`, and `anticlockwise`. It's designed to simulate or interface with motor control logic.
@@ -32,7 +32,6 @@ Install the necessary packages using pip:
 pip install fastapi uvicorn
 ```
 
----
 
  🚀 Running the Server
 
